@@ -1,6 +1,7 @@
 # Note
 
-Yue_plus 的笔记本
+这里是 Yue_plus 的笔记本。
+[GitHub](https://github.com/Yue-plus/Note)
 
 ## <https://Yue.Zone/>
 
@@ -24,6 +25,8 @@ Yue_plus 的笔记本
 
 ### <https://JavaFx.Docs.YuePlus.Ink/html5/>
 
-## <https://KMS.Yue.Zone/>
+## <https://KMS.Docs.Yue.Zone/>
+
+`KMS.Yue.Zone`
 
 ## [UI/UX 设计收藏](https://yue-plus.github.io/UIUXDesignCollection/)
