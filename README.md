@@ -23,7 +23,7 @@
 
 ### Windows/Office 激活
 
-- <https://MAS.Yue.Zone/>
+- [Microsoft Activation Scripts (MAS)](https://massgrave.dev/)
 - <https://KMS.Yue.Zone/>
 - <https://KMS.Docs.Yue.Zone/>
 
