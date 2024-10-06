@@ -21,9 +21,11 @@
 
 ### <https://JavaFx.Docs.Yue.Zone/html5/>
 
-### <https://KMS.Docs.Yue.Zone/>
+### Windows/Office 激活
 
-`KMS.Yue.Zone`
+- <https://MAS.Yue.Zone/>
+- <https://KMS.Yue.Zone/>
+- <https://KMS.Docs.Yue.Zone/>
 
 ## <https://YuePlus.Ink/>
 
