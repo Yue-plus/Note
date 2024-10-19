@@ -1,9 +1,11 @@
 # Note
 
-这里是 Yue_plus 的笔记本。
+这里是 [Yue_plus](https://github.com/Yue-plus) 的笔记本。
 [GitHub](https://github.com/Yue-plus/Note)
 
 ## <https://Yue.Zone/>
+
+### [Minecraft 皮肤站](https://skin.mc.yue.zone/)
 
 ### <https://JVTC.Yue.Zone/>
 
@@ -27,8 +29,11 @@
 - <https://KMS.Yue.Zone/>
 - <https://KMS.Docs.Yue.Zone/>
 
-## <https://YuePlus.Ink/>
-
-### <https://Spring.YuePlus.Ink/>
-
 ## [UI/UX 设计收藏](https://yue-plus.github.io/UIUXDesignCollection/)
+
+## Arknights
+
+- `hexo-theme-arknights`：[示例站点](https://arknights.theme.hexo.yue.zone)
+  | [GitHub](https://github.com/Yue-plus/hexo-theme-arknights)
+- `astro-arknights`：[示例站点](https://arknights.astro.yue.zone/)
+  | [GitHub](https://github.com/Yue-plus/astro-arknights)
